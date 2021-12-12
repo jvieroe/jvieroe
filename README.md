@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Social (Data) Scientist with a background in Political Science and applied quantitative methods. I currently work as consultant for a private Danish consultancy firm.
+I'm a Social (Data) Scientist with a background in Political Science and applied quantitative methods. A former PhD student at he 
+
+currently work as consultant for a private Danish consultancy firm.
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvieroe&show_icons=true&theme=merko&hide_border=false&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvieroe&theme=merko&hide_border=false)](https://github.com/jvieroe/github-readme-stats)
