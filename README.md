@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm a Social (Data) Scientist with a background in Political Science and applied quantitative methods. I currently work as consultant for a private Danish consultancy firm.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvieroe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvieroe)](https://github.com/jvieroe/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvieroe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvieroe=true&theme=cobalt)](https://github.com/jvieroe/github-readme-stats)
