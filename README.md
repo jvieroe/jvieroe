@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You should to copy and paste the following line with only one change the ?username= value to your GitHub’s username:
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvieroe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvieroe&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
