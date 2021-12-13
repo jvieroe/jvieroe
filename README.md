@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Social (Data) Scientist with a background in Political Science and applied quantitative methods.
+I'm a Social Data Scientist with a background in Political Science and applied quantitative methods.
 
 A former PhD student at the <a href="https://politicalscience.ku.dk"> Department of Political Science (UCPH) </a>, I currently work as a consultant for a private Danish consultancy firm.
 
