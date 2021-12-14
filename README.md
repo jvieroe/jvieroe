@@ -25,3 +25,20 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jvieroe&show_icons=true&theme=merko&hide_border=false&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvieroe&layout=compact&theme=merko&hide_border=false)](https://github.com/jvieroe/github-readme-stats)
 
 
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
