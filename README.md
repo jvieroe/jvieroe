@@ -44,9 +44,10 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
     <td> <a href="https://github.com/jvieroe/repinion"> Click here </a> </td> 
   </tr>
   <tr>
+    <!--
     <td> R package {<i>epinionDSB</i>} &#128230; </td>
     <td> <a href="https://github.com/jvieroe/epinionDSB"> Click here </a> </td> 
-  </tr>
+  </tr> <--
   <tr>
     <td> R package {<i>ricardo</i>} &#128230; &#9917; </td>
     <td> <a href="https://github.com/jvieroe/ricardo"> Click here </a> </td> 
@@ -56,10 +57,10 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
     <td> Job market resumé  &#128196; </td>
     <td> <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf"> Click here </a> (to download <a href="https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf"> click here </a>) </td> 
   </tr>
-  <tr>
+<!--  <tr>
     <td> Examples of previous academic work &#128218; </td>
   <td> Click <a href="https://github.com/jvieroe/ALineInTheSand"> here </a> and <a href="https://github.com/jvieroe/ABasketOfApples"> here </td> 
-  </tr>
+  </tr> -->
 
 </table>
 
