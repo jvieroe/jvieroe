@@ -29,10 +29,10 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
   </tr>
   <tr>
     <td>Various data visualizations &#128202; &#128200; </td>
-    <td>Maria Anders</td> 
+    <td><a href="https://github.com/jvieroe/dataviz"> Click here </a></td> 
   </tr>
   <tr>
-    <td><a href="https://github.com/jvieroe/dataviz"> Click here </a></td>
+    <td>xxx</td>
     <td>Francisco Chang</td> 
   </tr>
 </table>
