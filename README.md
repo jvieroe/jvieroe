@@ -53,11 +53,9 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
     <td> <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf"> Click here </a> (to download <a href="https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf"> click here </a>) </td> 
   </tr>
 
-  
-
-
 </table>
 
+&#9917;
 
 </br>
 
