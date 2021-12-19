@@ -23,12 +23,12 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
 
 <table>
   <tr>
-    <th>Company</th>
+    <th></th>
     <th>Contact</th> 
     <th>Country</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
+    <td></td>
     <td>Maria Anders</td> 
     <td>Germany</td>
   </tr>
