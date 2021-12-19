@@ -39,6 +39,15 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
     <td> R package {<i>voters</i>} &#128230; </td>
     <td> <a href="https://github.com/jvieroe/voters"> Click here </a> </td> 
   </tr>
+  <tr>
+    <td> R package {<i>repinion</i>} &#128230; </td>
+    <td> <a href="https://github.com/jvieroe/repinion"> Click here </a> </td> 
+  </tr>
+  <tr>
+    <td> R package {<i>epinionDSB</i>} &#128230; </td>
+    <td> <a href="https://github.com/jvieroe/epinionDSB"> Click here </a> </td> 
+  </tr>
+
 
 </table>
 
