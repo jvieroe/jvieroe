@@ -47,6 +47,13 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
     <td> R package {<i>epinionDSB</i>} &#128230; </td>
     <td> <a href="https://github.com/jvieroe/epinionDSB"> Click here </a> </td> 
   </tr>
+  </tr>
+  <tr>
+    <td> Job market resumé  &#128196; </td>
+    <td> <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf"> Click here </a> (to download <a href="https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf"> here </a>) </td> 
+  </tr>
+
+  
 
 
 </table>
