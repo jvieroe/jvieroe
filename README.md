@@ -28,11 +28,11 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
     <th>GitHub link</th> 
   </tr>
   <tr>
-    <td>Various data visualizations &#128202; &#128200; </td>
+    <td> Various data visualizations &#128202; &#128200; </td>
     <td><a href="https://github.com/jvieroe/dataviz"> Click here </a></td> 
   </tr>
   <tr>
-    <td> &#128230; R package {xx} </td>
+    <td> R package {<i>dyadicdist</i>} &#128230; </td>
     <td>Francisco Chang</td> 
   </tr>
 </table>
