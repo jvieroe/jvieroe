@@ -19,7 +19,7 @@ I'm a Social Data Scientist with a background in Political Science and applied q
 
 A former PhD student at the <a href="https://politicalscience.ku.dk"> Department of Political Science (UCPH) </a>, I currently work as a consultant/analyst/data scientist for a private Danish consultancy firm. You can check out my resumé <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf"> here </a> (download, <a href="https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf"> here </a>). 
 
-You can check out some of my recent data visualizations &#128202; &#128200; <a href="https://github.com/jvieroe/dataviz"> here </a>
+You can check out some of my recent data visualizations &#128202; &#128200; <a href="https://github.com/jvieroe/dataviz"> here </a>. I have also published/am working on a few R packages &#128230; : <a href="https://github.com/jvieroe/dyadicdist"> dyadicdist </a>, <a href="https://github.com/jvieroe/repinion"> repinion </a>, <a href="https://github.com/jvieroe/voters"> voters </a>, and <a href="https://github.com/jvieroe/ricardo"> ricardo </a>, 
 
 <!--
 Below is a brief overview of some of the stuff I have been working on lately:
