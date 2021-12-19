@@ -47,7 +47,7 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
     <!--
     <td> R package {<i>epinionDSB</i>} &#128230; </td>
     <td> <a href="https://github.com/jvieroe/epinionDSB"> Click here </a> </td> 
-  </tr> <--
+  </tr> -->
   <tr>
     <td> R package {<i>ricardo</i>} &#128230; &#9917; </td>
     <td> <a href="https://github.com/jvieroe/ricardo"> Click here </a> </td> 
