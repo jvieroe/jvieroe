@@ -32,7 +32,7 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
     <td><a href="https://github.com/jvieroe/dataviz"> Click here </a></td> 
   </tr>
   <tr>
-    <td>xxx</td>
+    <td> &#128230; R package {xx} </td>
     <td>Francisco Chang</td> 
   </tr>
 </table>
