@@ -23,10 +23,12 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
 
 <table>
   <tr>
+    <th> Description
     <th>Various data visualizations &#128202; </th> 
     <th>Country</th>
   </tr>
   <tr>
+    <th> GitHub link
     <td>Maria Anders</td> 
     <td>Germany</td>
   </tr>
