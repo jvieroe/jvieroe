@@ -25,7 +25,7 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
     <th>GitHub link</th> 
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
+    <td>Various data visualizations &#128202;</td>
     <td>Maria Anders</td> 
   </tr>
   <tr>
@@ -34,18 +34,6 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
   </tr>
 </table>
 
-<table>
-  <tr>
-    <th> Description
-    <th>Various data visualizations &#128202; </th> 
-    <th>Country</th>
-  </tr>
-  <tr>
-    <th> GitHub link
-    <td>Maria Anders</td> 
-    <td>Germany</td>
-  </tr>
-</table>
 
 </br>
 
