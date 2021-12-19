@@ -35,6 +35,11 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
     <td> R package {<i>dyadicdist</i>} &#128230; </td>
     <td> <a href="https://github.com/jvieroe/dyadicdist"> Click here </a> </td> 
   </tr>
+  <tr>
+    <td> R package {<i>dyadicdist</i>} &#128230; </td>
+    <td> <a href="https://github.com/jvieroe/dyadicdist"> Click here </a> </td> 
+  </tr>
+
 </table>
 
 
