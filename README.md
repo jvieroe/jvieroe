@@ -19,11 +19,11 @@ I'm a Social Data Scientist with a background in Political Science and applied q
 
 A former PhD student at the <a href="https://politicalscience.ku.dk"> Department of Political Science (UCPH) </a>, I currently work as a consultant/analyst/data scientist for a private Danish consultancy firm. You can check out my resumé <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf"> here </a> (download <a href="https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf"> here </a>)
 
-&#128202;
+
 
 <table>
   <tr>
-    <th>Contact</th> 
+    <th>Various data visualizations &#128202; </th> 
     <th>Country</th>
   </tr>
   <tr>
