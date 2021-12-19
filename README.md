@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 I'm a Social Data Scientist with a background in Political Science and applied quantitative methods.
 
-A former PhD student at the <a href="https://politicalscience.ku.dk"> Department of Political Science (UCPH) </a>, I currently work as a consultant/analyst/data scientist for a private Danish consultancy firm. <!--You can check out my resumé <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf"> here </a> (download, <a href="https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf"> here </a>)-->
+A former PhD student at the <a href="https://politicalscience.ku.dk"> Department of Political Science (UCPH) </a>, I currently work as a consultant/analyst/data scientist for a private Danish consultancy firm. You can check out my resumé <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf"> here </a> (download, <a href="https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf"> here </a>). Check out some of my recent data visualizations &#128202; &#128200; <a href="https://github.com/jvieroe/dataviz"> here </a>
 
+<!--
 Below is a brief overview of some of the stuff I have been working on lately:
+
 
 <table>
   <tr>
@@ -43,10 +45,9 @@ Below is a brief overview of some of the stuff I have been working on lately:
     <td> <a href="https://github.com/jvieroe/repinion"> Click here </a> </td> 
   </tr>
   <tr>
-    <!--
     <td> R package {<i>epinionDSB</i>} &#128230; </td>
     <td> <a href="https://github.com/jvieroe/epinionDSB"> Click here </a> </td> 
-  </tr> -->
+  </tr>
   <tr>
     <td> R package {<i>ricardo</i>} &#128230; &#9917; </td>
     <td> <a href="https://github.com/jvieroe/ricardo"> Click here </a> </td> 
@@ -56,12 +57,14 @@ Below is a brief overview of some of the stuff I have been working on lately:
     <td> Job market resumé  &#128196; </td>
     <td> <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf"> Click here </a> (to download <a href="https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf"> click here </a>) </td> 
   </tr>
-<!--  <tr>
+<tr>
     <td> Examples of previous academic work &#128218; </td>
   <td> Click <a href="https://github.com/jvieroe/ALineInTheSand"> here </a> and <a href="https://github.com/jvieroe/ABasketOfApples"> here </td> 
-  </tr> -->
+  </tr>
 
 </table>
+
+-->
 
 
 
