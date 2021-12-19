@@ -58,7 +58,7 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
   </tr>
   <tr>
     <td> Examples of previous academic work &#128218; </td>
-    <td> Click <a href="https://github.com/jvieroe/ALineInTheSand"> here and <a href="https://github.com/jvieroe/ABasketOfApples"> here </td> 
+  <td> Click <a href="https://github.com/jvieroe/ALineInTheSand"> here </a> and <a href="https://github.com/jvieroe/ABasketOfApples"> here </td> 
   </tr>
 
 </table>
