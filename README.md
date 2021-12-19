@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 I'm a Social Data Scientist with a background in Political Science and applied quantitative methods.
 
-A former PhD student at the <a href="https://politicalscience.ku.dk"> Department of Political Science (UCPH) </a>, I currently work as a consultant/analyst/data scientist for a private Danish consultancy firm. You can check out my resumé <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf"> here </a> (download, <a href="https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf"> here </a>). Check out some of my recent data visualizations &#128202; &#128200; <a href="https://github.com/jvieroe/dataviz"> here </a>
+A former PhD student at the <a href="https://politicalscience.ku.dk"> Department of Political Science (UCPH) </a>, I currently work as a consultant/analyst/data scientist for a private Danish consultancy firm. You can check out my resumé <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf"> here </a> (download, <a href="https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf"> here </a>). 
+
+You can check out some of my recent data visualizations &#128202; &#128200; <a href="https://github.com/jvieroe/dataviz"> here </a>
 
 <!--
 Below is a brief overview of some of the stuff I have been working on lately:
