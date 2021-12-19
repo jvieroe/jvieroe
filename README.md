@@ -21,9 +21,8 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th> 
-    <th>Country</th>
+    <th>Description</th>
+    <th>GitHub link</th> 
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
