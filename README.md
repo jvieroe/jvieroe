@@ -23,12 +23,10 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
 
 <table>
   <tr>
-    <th></th>
     <th>Contact</th> 
     <th>Country</th>
   </tr>
   <tr>
-    <td></td>
     <td>Maria Anders</td> 
     <td>Germany</td>
   </tr>
