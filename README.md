@@ -19,6 +19,9 @@ I'm a Social Data Scientist with a background in Political Science and applied q
 
 A former PhD student at the <a href="https://politicalscience.ku.dk"> Department of Political Science (UCPH) </a>, I currently work as a consultant/analyst/data scientist for a private Danish consultancy firm. You can check out my resumé <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf"> here </a> (download <a href="https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf"> here </a>)
 
+
+
+
 <table>
   <tr>
     <th>Description</th>
@@ -29,7 +32,7 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
     <td>Maria Anders</td> 
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
+    <td><a href="https://github.com/jvieroe/dataviz"> Click here </a></td>
     <td>Francisco Chang</td> 
   </tr>
 </table>
