@@ -56,8 +56,14 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
     <td> Job market resumé  &#128196; </td>
     <td> <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf"> Click here </a> (to download <a href="https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf"> click here </a>) </td> 
   </tr>
+  <tr>
+    <td> Examples of previous academic work &#128218; </td>
+    <td> Click <a href="https://github.com/jvieroe/ALineInTheSand"> here and <a href="https://github.com/jvieroe/ABasketOfApples"> </td> 
+  </tr>
 
 </table>
+
+
 
 
 
