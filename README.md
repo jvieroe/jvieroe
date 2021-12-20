@@ -19,7 +19,7 @@ I'm a Social Data Scientist with a background in Political Science, applied quan
 
 A former PhD student at the <a href="https://politicalscience.ku.dk"> Department of Political Science (UCPH) </a>, I currently work as a consultant/analyst/data scientist for a private Danish consultancy firm. You can check out my resumé <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf"> here </a> (download, <a href="https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf"> here</a>).
 
-Substantially, I'm mostly into spatial data analyses 🗺️, data visualization &#128202; &#128200;, and sports analytics &#9917;
+Recently I've been focusing on spatial data analysis 🗺️, data visualization &#128202; &#128200;, and sports analytics &#9917;
 
 
 <!--<img src="https://github.com/jvieroe/dataviz/blob/main/2021/superliga/accumulated_points.png?raw=true" alt="" width="750">-->
