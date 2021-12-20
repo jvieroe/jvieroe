@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Social Data Scientist with a background in Political Science, applied quantitative methods, and coding/programming in <img src="https://www.r-project.org/logo/Rlogo.svg" alt="" width="15">.
+I'm a Social Data Scientist with a background in Political Science, applied quantitative methods, and coding/programming in <a href="https://www.r-project.org/"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="" width="25"></a>.
 
 A former PhD student at the <a href="https://politicalscience.ku.dk"> Department of Political Science (UCPH) </a>, I currently work as a consultant/analyst/data scientist for a private Danish consultancy firm. You can check out my resumé <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf"> here </a> (download, <a href="https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf"> here</a>). 
+
 
 <!--<img src="https://github.com/jvieroe/dataviz/blob/main/2021/superliga/accumulated_points.png?raw=true" alt="" width="750">-->
 
