@@ -23,12 +23,6 @@ You can check out some of my recent data visualizations &#128202; &#128200; <a h
 
 I have also published (or am working on) a few R packages &#128230; : <a href="https://github.com/jvieroe/dyadicdist"> dyadicdist </a>, <a href="https://github.com/jvieroe/repinion"> repinion </a>, <a href="https://github.com/jvieroe/voters"> voters </a>, and <a href="https://github.com/jvieroe/ricardo"> ricardo </a>, 
 
-<ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>
-
 <ul>
   <li>Coffee</li>
   <li>Tea</li>
