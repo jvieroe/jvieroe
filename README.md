@@ -21,9 +21,9 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
 
 <!--<img src="https://github.com/jvieroe/dataviz/blob/main/2021/superliga/accumulated_points.png?raw=true" alt="" width="750">-->
 
-<img src="https://www.r-project.org/logo/Rlogo.svg" alt="" width="15">
+Text <img src="https://www.r-project.org/logo/Rlogo.svg" alt="" width="15"> text
 
-<svg>https://www.r-project.org/logo/Rlogo.svg</svg>
+<!--<svg>https://www.r-project.org/logo/Rlogo.svg</svg>-->
 
 <ul>
   <li>Have a look at some of my recent data visualizations &#128202; &#128200; <a href="https://github.com/jvieroe/dataviz"> here</a>. </li>
