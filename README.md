@@ -21,7 +21,7 @@ A former PhD student at the <a href="https://politicalscience.ku.dk"> Department
 
 <ul>
   <li>Have a look at some of my recent data visualizations &#128202; &#128200; <a href="https://github.com/jvieroe/dataviz"> here</a>. </li>
-  <li>I have also published (or am working on) a few R packages &#128230; : <a href="https://github.com/jvieroe/dyadicdist"> dyadicdist </a>, <a href="https://github.com/jvieroe/repinion"> repinion </a>, <a href="https://github.com/jvieroe/voters"> voters </a>, and <a href="https://github.com/jvieroe/ricardo"> ricardo </a></li>
+  <li>I have also published (or am working on) a few R packages &#128230; : <a href="https://github.com/jvieroe/dyadicdist"> dyadicdist</a>, <a href="https://github.com/jvieroe/repinion"> repinion</a>, <a href="https://github.com/jvieroe/voters"> voters</a>, <a href="https://github.com/jvieroe/ricardo"> ricardo</a>, and <a href="https://github.com/jvieroe/claudius"> claudius</a></li>
 </ul>
 
 <!--
