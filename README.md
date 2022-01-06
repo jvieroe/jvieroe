@@ -28,7 +28,8 @@ Recently I've been focusing on spatial data analysis 🗺️, data visualization
 
 <ul>
   <li>Have a look at some of my recent data visualizations &#128202; &#128200; <a href="https://github.com/jvieroe/dataviz"> here</a>. </li>
-  <li>I have also published (or am working on) a few <a href="https://www.r-project.org/"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="" width="20"></a> packages &#128230;: <a href="https://github.com/jvieroe/dyadicdist"> dyadicdist</a>, <a href="https://github.com/jvieroe/repinion"> repinion</a>, <a href="https://github.com/jvieroe/voters"> voters</a>, <a href="https://github.com/jvieroe/ricardo"> ricardo</a>, and <a href="https://github.com/jvieroe/claudius"> claudius</a></li>
+  <li>I have also published (or am working on) a few <a href="https://www.r-project.org/"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="" width="20"></a> packages &#128230;: <a href="https://github.com/jvieroe/dyadicdist"> dyadicdist</a>, <a href="https://github.com/jvieroe/repinion"> repinion</a>, <a href="https://github.com/jvieroe/voters"> voters</a>, <a href="https://github.com/jvieroe/ricardo"> ricardo</a>, and <a href="https://github.com/jvieroe/claudius"> claudius</a> <a href="https://www.r-project.org/"> <img src="https://raw.githubusercontent.com/jvieroe/dyadicdist/8f21c4d41430db25f3a2947fdd4b5964d2f4a1b4/man/figures/logo.svg" alt="" width="20"></a>
+  </li>
 </ul>
 
 <!--
