@@ -28,12 +28,7 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 <ul>
   <li>Have a look at some of my various data visualizations &#128202; <a href="https://github.com/jvieroe/dataviz"> here</a> and my <a href="https://github.com/rfordatascience/tidytuesday"> #TidyTuesday</a> commits &#128200; <a href="https://github.com/jvieroe/TidyTuesday"> here </a> </li>
-  <li>I have also published (or am working on) a few <a href="https://www.r-project.org/"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="" width="20"></a> packages &#128230;: 
-      <a href="https://github.com/jvieroe/dyadicdist"> dyadicdist</a>,
-      <a href="https://github.com/jvieroe/repinion"> repinion</a>, 
-      <a href="https://github.com/jvieroe/voters"> voters</a>, 
-      <a href="https://github.com/jvieroe/ricardo"> ricardo</a>, and 
-      <a href="https://github.com/jvieroe/claudius"> claudius</a> 
+  <li>I have also published (or am working on) a few <a href="https://www.r-project.org/"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="" width="20"></a> packages &#128230;, see <a href="https://jvieroe.github.io/rpackages.html"> here</a>,
   </li>
 </ul>
 
