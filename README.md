@@ -88,7 +88,7 @@ Below is a brief overview of some of the stuff I have been working on lately:
 
 </br>
 
-<a href="https://twitter.com/jvieroe"> <img src="https://img.shields.io/badge/jvieroe-1d9bf0?style=flat&logo=twitter&labelColor=1d9bf0&logoColor=white" /> </a> <a href="mailto:jvieroe@gmail.com"> <img src="https://img.shields.io/badge/Gmail-orange?style=flat&logo=gmail&labelColor=orange&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/jeppe-vier%C3%B8-028b4320b"> <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&labelColor=0a66c2" /> </a> <a href="https://github.com/jvieroe"> <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black&logoColor=white" />  </a> 
+<a href="https://twitter.com/jvieroe"> <img src="https://img.shields.io/badge/jvieroe-1d9bf0?style=flat&logo=twitter&labelColor=1d9bf0&logoColor=white" /> </a> <a href="mailto:jvieroe@gmail.com"> <img src="https://img.shields.io/badge/Gmail-orange?style=flat&logo=gmail&labelColor=orange&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/jeppe-vier%C3%B8-028b4320b"> <img src="https://img.shields.io/badge/in/jvieroe-0a66c2?style=flat&logo=linkedin&labelColor=0a66c2" /> </a> <a href="https://github.com/jvieroe"> <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black&logoColor=white" />  </a> 
 </a>
 <a href="https://gist.github.com/jvieroe"> <img src="https://img.shields.io/badge/gists-white?style=flat&logo=github&labelColor=white&logoColor=black" />  </a>
 <a href="https://www.behance.net/jvieroe"> <img src="https://img.shields.io/badge/jvieroe-blue?style=flat&logo=behance&labelColor=blue&logoColor=white" />  </a>
