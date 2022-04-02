@@ -94,6 +94,6 @@ Below is a brief overview of some of the stuff I have been working on lately:
 <a href="https://jvieroe.github.io"> <img src="https://img.shields.io/badge/jvieroe.github.io-darkgreen?style=flat&logo=github&labelColor=darkgreen&logoColor=white" /> 
 
 </a>
-<a href="https://gist.github.com/jvieroe"> <img src="https://img.shields.io/badge/behance-black?style=flat&logo=behance&labelColor=blue&logoColor=white" />  </a>
+<a href="https://gist.github.com/jvieroe"> <img src="https://img.shields.io/badge/behance-blue?style=flat&logo=behance&labelColor=blue&logoColor=white" />  </a>
 
 <!-- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jvieroe&show_icons=true&theme=merko&hide_border=false&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvieroe&layout=compact&theme=merko&hide_border=false)](https://github.com/jvieroe/github-readme-stats) -->
